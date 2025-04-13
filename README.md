@@ -1,5 +1,7 @@
 # ATC AI: Real-Time Aircraft Emergency Awareness System
 
+## Click here to view the app : https://bolt.new/~/sb1-dvkt2eg3
+
 ## 🌐 Overview
 **ATC AI** is a real-time AI-based system designed to enhance situational awareness during in-flight emergencies. By linking the aircraft’s Flight Data Recorder (FDR) and Cockpit Voice Recorder (CVR) to ground control systems, it enables Air Traffic Control (ATC) to proactively monitor aircraft conditions—giving pilots the freedom to focus on flying safely.
 
@@ -81,6 +83,6 @@
 - Extend servo control to replicate more cockpit instruments
 
 ---
-## Click here to view the app : https://bolt.new/~/sb1-dvkt2eg3
+
 ## 👨‍💻 Contributors
 Len Johns Shaji
